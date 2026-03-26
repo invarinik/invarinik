@@ -1,10 +1,12 @@
 # Nikita Stepanov
 
 Uniswap without expectations  
-GitHub: https://github.com/invarinik/uniswap-without-expectations
+https://github.com/invarinik/uniswap-without-expectations
 
 Admissibility Fixation  
-DOI: https://doi.org/10.5281/zenodo.18803272
+https://doi.org/10.5281/zenodo.18803272
+
+
 <!--
 **invarinik/invarinik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
