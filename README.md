@@ -1,4 +1,4 @@
-Nikita Stepanov
+# Nikita Stepanov
 
 Uniswap without expectations  
 GitHub: https://github.com/invarinik/uniswap-without-expectations
